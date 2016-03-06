@@ -1,1 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/corn"
+    android:layout_height="match_parent">
 
+
+    <TextView
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="In a world where people are getting more advanced, we are using more and more natural resources. And as we consume more resources, the levels of pollution keep increasing at an alarming rate.  Most of the pollution come from Carbon Emissions. 213 countries and territories were listed as emitting a total of 29.319 billion tonnes of CO2 in 2007. \n\nThis app detects whenever the user is moving in a vehicle and calculates the amount of Carbon produced by taking several parameters such as distance travelled, vehicle mileage etc for consideration. The app makes use of the Location based services from Google and some neat tricks to automatically detect user movement by a vehicle. The app then presents the user with his/her Carbon Footprint statistics for the current day and the current week. It aims at creating an awareness among the people so that individually, we all can cut down the emissions by using Public Transports / Car Pools. After all, if every individual develops awareness regarding the issue, the world shall become a little better and cleaner. \n\n In the end, the app aims at motivating the user to save energy and work For a Better World. \n\n You can change your vehicle name and parameters anytime you want by going to the settings page."
+        android:id="@+id/textView4"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
