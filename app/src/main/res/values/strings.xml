@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">For a Better World</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_name">Your Full Name</string>
+    <string name="hint_vehicle1">Vehicle Name</string>
+    <string name="hint_vehicle1_mpg">Mileage (in kmpl):</string>
+    <string name="hint_vehicle2_mpg">Mileage (in kmpl):</string>
+    <string name="btn_fb">Connect to Facebook</string>
+    <string name="btn_save">Save Details</string>
+    <string name="saved">Saved in SharedPreferences.</string>
+</resources>
